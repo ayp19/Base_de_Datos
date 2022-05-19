@@ -110,4 +110,5 @@ fecha
 número de pág.
 número de ejemplaresvendidos
 
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" value="tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1"><mxGeometry x="440" y="160" width="80" height="80" as="geometry"/></mxCell></root></mxGraphModel>
+![Captura de Pantalla 2022-05-19 a la(s) 13 11 37](https://user-images.githubusercontent.com/103067169/169371721-50b54e13-45c8-487e-83b6-769f1c65eb86.png)
+
