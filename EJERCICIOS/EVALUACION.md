@@ -35,6 +35,7 @@ operaciones sobre estos archivos, tales como: (valor 1.5)
 
 
 4. ¿Qué es un Sistema de Información? (valor 1.5)
+
 Un sistema de información es un conjunto de elementos enfocados  al tratamiento y administración de informacion  y datos, organizados y listos para ser usados, que son generados para cubrir una necesidad.
 
 ## Práctica 2.
@@ -109,3 +110,4 @@ fecha
 número de pág.
 número de ejemplaresvendidos
 
+<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" value="tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1"><mxGeometry x="440" y="160" width="80" height="80" as="geometry"/></mxCell></root></mxGraphModel>
