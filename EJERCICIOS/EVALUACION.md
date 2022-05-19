@@ -27,10 +27,15 @@ Preguntas:
 
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
+    1.-Instalar, configurar y gestionar bases de datos.
+    2.- Dar soporte al equipo de desarrollo, seguridad informática y redes.
+    3.- Definir el esquema del diccionario de datos.
+    4.-Especificar restricciones de integridad para asegurar los datos.
+    5.-Garantizar la alta disponibilidad de la base de datos.
 
 
 4. ¿Qué es un Sistema de Información? (valor 1.5)
-
+Un sistema de información es un conjunto de elementos enfocados  al tratamiento y administración de informacion  y datos, organizados y listos para ser usados, que son generados para cubrir una necesidad.
 
 ## Práctica 2.
 
@@ -69,22 +74,38 @@ constan de un título y una extensión.
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
 
+Sucursales
+Domicilio
+Teléfono 
+Código de sucursal 
 
-Editorial 
-Sucursales 
-Domicilio 
-Teléfono
-código de sucursal 
-empleados 
-nombre
+Empleados
+Código de empleado
+Nombre
 apellido
 NIF
-Periodistas
-especialidad
+teléfono
+
 Revistas
 Título
-extensión 
+número de registro 
+periocidad
+Tipo
+
+Periodista
+Código 
+Nombre
+apellido
+NIF
+teléfono
+Especialidad
+
+Secciones 
+Título 
+extensión
+
+Ejemplar 
 fecha
-número de páginas
-número de ejemplares vendidos 
+número de pág.
+número de ejemplaresvendidos
 
