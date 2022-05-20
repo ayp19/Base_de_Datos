@@ -110,5 +110,4 @@ fecha
 número de pág.
 número de ejemplaresvendidos
 
-![Captura de Pantalla 2022-05-19 a la(s) 13 18 44](https://user-images.githubusercontent.com/103067169/169372422-236bae07-73d6-4177-8dc0-2bee7fec0dc0.png)
-
+![imagen](https://user-images.githubusercontent.com/103067169/169570234-4019d991-e2e0-4034-937d-1ec8cc65aa21.png)
