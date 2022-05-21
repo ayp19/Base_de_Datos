@@ -110,4 +110,5 @@ fecha
 número de pág.
 número de ejemplaresvendidos
 
-![imagen](https://user-images.githubusercontent.com/103067169/169570234-4019d991-e2e0-4034-937d-1ec8cc65aa21.png)
+![imagen](https://user-images.githubusercontent.com/103067169/169671488-5586f1f1-dff6-49cc-ac24-64e10b02af9f.png)
+
