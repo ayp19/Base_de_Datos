@@ -112,4 +112,5 @@ número de ejemplaresvendidos
 
 ![imagen](https://user-images.githubusercontent.com/103067169/169672527-b6d5fc32-e031-4cfb-95be-e987a5e56380.png)
 [
-https://www.db-fiddle.com/f/uVzk1m7TvqCg5Hc7n7XGsM/1
+
+https://www.db-fiddle.com/f/uVzk1m7TvqCg5Hc7n7XGsM/2
