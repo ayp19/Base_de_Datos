@@ -30,7 +30,7 @@ CHAR:cadena de longitud fija determinada por el usuario
 SQL:Structured Query Language que es un lenguaje declarativo internacional comunicativo que modificar, administra las bases de datos
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
-
+Es un gestor de base de datos que 
 
 ## Práctica 5.
 ### Gestores de base de datos
@@ -48,7 +48,7 @@ caracteristicas:
 ventajas:
 desventajas:
 My SQL WorkBench
-caracteristicas:
+caracteristicas: 
 ventajas:
 desventajas:
 PHP
