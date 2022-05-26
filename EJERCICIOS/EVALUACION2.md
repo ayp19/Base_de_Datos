@@ -4,10 +4,10 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
-UPGRADE:
-SELECT
-INSERT
-DELETE
+SELECT:Es el encargado de consultar de la base de datos
+INSERT: es el encargado de cargar lotes de datosen la base de datos
+UPDATE: es el encargado de modificar los valores y registros espec.
+DELETE: es el encargado de eliminar registros de una tabla
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
 CHAR
@@ -15,22 +15,22 @@ VARCHAR
 INT
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
-TRUNCATE:elimina las filas sin eliminar la tabla
-DELETE:elimina filas de forma especifica
+TRUNCATE:Es una operacion de DATA MANIPULATION LANGUAGE. Es la forma más rápida de eliminar el contenido de una tabla y no permite el borrado selectivo.
+DELETE:Es una operación de DATA DEFINITION LANGUAGE. Esta permite el borrado selectivo y es más lento.
 
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
-se usa para que no se repitan los atributos
+Se usa para que no se inserten valores duplicador, es decir garantiza que los datos no se puedan repetir y que sean diferentes.
 
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
-VARCHAR: cadena de longitud variable
-CHAR:cadena de longitud fija determinada por el usuario
+VARCHAR: cadena de longitud variable especificada por el usuario.
+CHAR: es un cadena de longitud fija determinada por el usuario
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
-SQL:Structured Query Language que es un lenguaje declarativo internacional comunicativo que modificar, administra las bases de datos
+SQL:Structured Query Language que es un lenguaje estándar e interactivo de acceso a bases de datos relacionales( esto quiere decir que tienen la posiblidad de relacionarse entre las distintas entiendades y las tablas), que permite  a todos el acceso y manipulacion de datos en una base de datos. 
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
-Es un gestor de base de datos que 
+Es un editor visual de base de datos MySQL que se caracteriza por su editor de de diagramas.También tiene herramientas visuales para crear, ejecutar y optimizar consultas SQL.
 
 ## Práctica 5.
 ### Gestores de base de datos
@@ -45,13 +45,17 @@ Domina sus diferencias de los gestores de base de datos mencionados 3 puntos
 Ejercicio:
 MySQL
 caracteristicas:
+
 ventajas:
+
 desventajas:
-My SQL WorkBench
+
+Maria DB
 caracteristicas: 
 ventajas:
 desventajas:
-PHP
+MONGO DB
+
 
 En un mapa conceptual presenta 3 gestores de bases de datos, sus características
 principales, las ventajas y desventajas. (valor 6)
