@@ -135,4 +135,3 @@ correctamente.
  Se puede usar cuando el usuario realiza una acción relacionada con añadir, actualizar o eliminar información en una tabla ( INSERT, UPDATE,DELETE), esto nos puede ayudar a capturar los eventos que modifican la base de datos y actuar en consecuencia.
  
  
- https://www.db-fiddle.com/f/d4G81rVU1eYpzkXEcY59GE/0
