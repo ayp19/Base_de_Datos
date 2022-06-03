@@ -55,7 +55,7 @@ medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4
 <img width="1175" alt="Screen Shot 2022-06-02 at 7 55 37 PM" src="https://user-images.githubusercontent.com/103067169/171765257-a5bc4c9a-ac4a-4537-9c8a-2b5e66938bca.png">
 
 
-  https://www.db-fiddle.com/f/iGVBXUtmfFVDjSnNPxqTsJ/3
+  https://www.db-fiddle.com/f/iGVBXUtmfFVDjSnNPxqTsJ/4
 
 ## Práctica 8.
 ### Disparadores (Triggers)
