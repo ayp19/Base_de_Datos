@@ -12,7 +12,8 @@ Es un sistema que agraga y combina información de diferentes fuentes en un alma
 Que permite a una empresa ejecutar análisis potentes en grandes vólumenes.
 
 2. Realiza un diseño del modelo en estrella (valor 2)
-![Uploading Screen Shot 2022-06-02 at 11.52.13 PM.png…]()
+<img width="349" alt="Screen Shot 2022-06-02 at 11 52 13 PM" src="https://user-images.githubusercontent.com/103067169/171788997-5d0a6863-aaac-4044-95f9-e6eaf56bf790.png">
+
 
 
 
