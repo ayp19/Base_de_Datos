@@ -113,5 +113,22 @@ sobre la tabla alumnos y verifica que los triggers se están ejecutando
 correctamente.
  
  
- 1.- 
+ 1.- Qué es un trigger?
+ 
+ Es un script  que se usa en SQL y son una serie de reglas predefinidas que se asocia a una tabla y se aplican a la base de datos  cuando se realizan determinadas operaciones, al usar los comandos ( INSERT, UPDATE Y DELETE).
+ 
+ 2.-Cuál es la función de un trigger?
+ 
+ La función  es contribuir a la mejora de la gestión  de la base de datos de forma autómatica. Se usan generalmente para garantizar la integridad y seguridad de la info. a traves  de restricciones, requerimientos o acciones de verificación para evitar errores y facilitar la sincronización de la info.
+ 
+ 3.-Cuáles son los dos escenarios de uso de un trigger?
+ 
+ El primer escenario es cuando no podemos intervenir en el código fuente de la aplicacion que trabaja la BD.
+ La segunda es cuando aunque tengamos el código este pertenece a un software desarrollado por terceros y hay riesgo de aplicar actualizaciones o instalar  plugins y se busca modificar el código lo menos posible.
+ 
+ 4.- Cuándo se puede usar un trigger?
+ 
+ Se puede usar cuando el usuario realiza una acción relacionada con añadir, actualizar o eliminar información en una tabla ( INSERT, UPDATE,DELETE), esto nos puede ayudar a capturar los eventos que modifican la base de datos y actuar en consecuencia.
+ 
+ 
  https://www.db-fiddle.com/f/d4G81rVU1eYpzkXEcY59GE/0
