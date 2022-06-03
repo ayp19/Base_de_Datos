@@ -39,7 +39,8 @@ también debe incluir los fabricantes que no tienen ningún producto. El resulta
 mostrará dos columnas, una con el nombre del fabricante y otra con el número de
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
-![imagen](https://user-images.githubusercontent.com/103067169/171676168-d1d0a8fb-665f-437b-8c32-5bf5774688e1.png)
+![imagen](https://user-images.githubusercontent.com/103067169/171878876-064b79dd-2ef0-45d3-ae2a-437a46372fb4.png)
+
 
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
