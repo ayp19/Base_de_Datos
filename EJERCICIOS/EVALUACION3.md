@@ -8,7 +8,7 @@ su esquema
 Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
-2. 
+
 Es un sistema que agrega y combina información de diferentes fuentes en un almacen de datos único y  centralizado.
 Esto permite a una empresa ejecutar análisis potentes en grandes vólumenes.
 
