@@ -112,4 +112,4 @@ número de ejemplaresvendidos
 
 <img width="935" alt="Screen Shot 2022-05-30 at 10 03 38 PM" src="https://user-images.githubusercontent.com/103067169/171085161-47125767-fab5-4b52-a9da-a43f47da08e3.png">
 
-https://www.db-fiddle.com/f/uVzk1m7TvqCg5Hc7n7XGsM/6
+https://www.db-fiddle.com/f/i3xtMXZM9g1WnkAN8WhgW9/0
