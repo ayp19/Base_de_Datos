@@ -12,13 +12,14 @@ Es un sistema que agraga y combina información de diferentes fuentes en un alma
 Que permite a una empresa ejecutar análisis potentes en grandes vólumenes.
 
 2. Realiza un diseño del modelo en estrella (valor 2)
-![imagen](https://user-images.githubusercontent.com/103067169/171657772-7ed11ff3-db34-4ae2-a585-7e5bae78c61c.png)
+![Uploading Screen Shot 2022-06-02 at 11.52.13 PM.png…]()
+
 
 
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
-4. 
-![imagen](https://user-images.githubusercontent.com/103067169/171658171-43b2ccd9-415d-42d0-ba5b-e9167da6ff2a.png)
+<img width="724" alt="Screen Shot 2022-06-02 at 11 55 49 PM" src="https://user-images.githubusercontent.com/103067169/171788942-3263a196-d57e-4b4d-91ce-37c3ac284e1d.png">
+
 
 
 ## Práctica 7
