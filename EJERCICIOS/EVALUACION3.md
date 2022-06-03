@@ -9,6 +9,7 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 Es un sistema que agraga y combina información de diferentes fuentes en un almacen de datos único y  centralizado.
+Que permite a una empresa ejecutar análisis potentes en grandes vólumenes.
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 ![imagen](https://user-images.githubusercontent.com/103067169/171657772-7ed11ff3-db34-4ae2-a585-7e5bae78c61c.png)
@@ -51,6 +52,8 @@ medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4
 <img width="1175" alt="Screen Shot 2022-06-02 at 7 55 37 PM" src="https://user-images.githubusercontent.com/103067169/171765257-a5bc4c9a-ac4a-4537-9c8a-2b5e66938bca.png">
 
 
+  https://www.db-fiddle.com/f/iGVBXUtmfFVDjSnNPxqTsJ/3
+
 ## Práctica 8.
 ### Disparadores (Triggers)
 
@@ -76,6 +79,9 @@ Tabla alumnos:
 ● apellido2 (cadena de caracteres)
 
 ● nota (número real)
+
+<img width="298" alt="Screen Shot 2022-06-02 at 10 48 54 PM" src="https://user-images.githubusercontent.com/103067169/171782370-d61ce970-00a4-4967-8e83-ab46d6858612.png">
+
 
 Una vez creada la tabla escriba dos triggers con las siguientes características:
 
@@ -105,4 +111,7 @@ Una vez creada la tabla escriba dos triggers con las siguientes características
 Una vez creados los triggers escribe varias sentencias de inserción y actualización
 sobre la tabla alumnos y verifica que los triggers se están ejecutando
 correctamente.
- https://www.db-fiddle.com/f/iGVBXUtmfFVDjSnNPxqTsJ/1
+ 
+ 
+ 1.- 
+ https://www.db-fiddle.com/f/d4G81rVU1eYpzkXEcY59GE/0
